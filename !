@@ -1,0 +1,49 @@
+Init
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: iem <iem@iutabgdin202-07.univ-lyon1.fr>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   Tp_king2/.gitignore
+#	new file:   Tp_king2/.idea/compiler.xml
+#	new file:   Tp_king2/.idea/copyright/profiles_settings.xml
+#	new file:   Tp_king2/.idea/gradle.xml
+#	new file:   Tp_king2/.idea/misc.xml
+#	new file:   Tp_king2/.idea/modules.xml
+#	new file:   Tp_king2/.idea/runConfigurations.xml
+#	new file:   Tp_king2/app/.gitignore
+#	new file:   Tp_king2/app/build.gradle
+#	new file:   Tp_king2/app/proguard-rules.pro
+#	new file:   Tp_king2/app/src/androidTest/java/com/example/iem/tp_king/ExampleInstrumentedTest.java
+#	new file:   Tp_king2/app/src/main/AndroidManifest.xml
+#	new file:   Tp_king2/app/src/main/java/com/example/iem/tp_king/MainActivity.java
+#	new file:   Tp_king2/app/src/main/res/layout/activity_main.xml
+#	new file:   Tp_king2/app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   Tp_king2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   Tp_king2/app/src/main/res/values/colors.xml
+#	new file:   Tp_king2/app/src/main/res/values/strings.xml
+#	new file:   Tp_king2/app/src/main/res/values/styles.xml
+#	new file:   Tp_king2/app/src/test/java/com/example/iem/tp_king/ExampleUnitTest.java
+#	new file:   Tp_king2/build.gradle
+#	new file:   Tp_king2/gradle.properties
+#	new file:   Tp_king2/gradle/wrapper/gradle-wrapper.jar
+#	new file:   Tp_king2/gradle/wrapper/gradle-wrapper.properties
+#	new file:   Tp_king2/gradlew
+#	new file:   Tp_king2/gradlew.bat
+#	new file:   Tp_king2/settings.gradle
+#
+# Changes not staged for commit:
+#	modified:   Tp_king2/.idea/misc.xml
+#
